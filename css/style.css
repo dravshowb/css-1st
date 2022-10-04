@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    text-shadow: -4px 4px 7px black;
+    font-size: 50px;
+}  
+
+
+h3{
+    background-color: #a7f7fc;
+    color: gray;
+}
+
+
+p{  
+    
+    text-align: justify;
+    text-align-last: left;
+    text-decoration: 25px;
+    text-indent: 25px;
+    
+}
+
+a{
+    
+}
